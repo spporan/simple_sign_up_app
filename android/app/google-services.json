@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "397457483251",
+    "firebase_url": "https://fir-test-31c33.firebaseio.com",
+    "project_id": "fir-test-31c33",
+    "storage_bucket": "fir-test-31c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397457483251:android:386a2bfef858a3fa661e86",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSInz5c95JxGeYd-ZAD72Yd-YFD6gw1OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397457483251:android:415843bd2ec83369",
+        "android_client_info": {
+          "package_name": "com.poran.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397457483251-k9m9bma2ajv592bmk8k9mm2g1f9ibt9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poran.firebasetest",
+            "certificate_hash": "ace8dccf49857853b9cecae5b83ee7c05ffc2e52"
+          }
+        },
+        {
+          "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSInz5c95JxGeYd-ZAD72Yd-YFD6gw1OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397457483251:android:96d50dd60332722e661e86",
+        "android_client_info": {
+          "package_name": "com.poran.simple_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397457483251-sered0hik76cl8cvh30e28sv66ldarq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poran.simple_login_app",
+            "certificate_hash": "2fa2738dbfe323cbb56aacefb5217923b667e4e9"
+          }
+        },
+        {
+          "client_id": "397457483251-h1aum0latj93rqaonfd54s9hki93bkhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poran.simple_login_app",
+            "certificate_hash": "1af2f6876e842dc6004303635bc7bae6c80aa8f2"
+          }
+        },
+        {
+          "client_id": "397457483251-o7cr8m9ocpbg8pfkkt68ij10gmok39gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poran.simple_login_app",
+            "certificate_hash": "ace8dccf49857853b9cecae5b83ee7c05ffc2e52"
+          }
+        },
+        {
+          "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSInz5c95JxGeYd-ZAD72Yd-YFD6gw1OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397457483251-l3kl46f2ssp91qphbkitluo3adb2t0ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
